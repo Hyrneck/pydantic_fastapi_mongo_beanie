@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fastapi_pydantic_mongo_beanie_anthony_shea"
+version = "0.1.0"
+dependencies = [
+  "fastapi>=0.88,<1.0.0",
+  "uvicorn>=0.20,<1.0.0"
+]
+
+[tool.setuptools.packages.find]
+where = ["fastapi_pydantic_mongo_beanie_anthony_shea"]
+

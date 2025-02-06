@@ -1,0 +1,5 @@
+Metadata-Version: 2.2
+Name: fastapi_pydantic_mongo_beanie_anthony_shea
+Version: 0.1.0
+Requires-Dist: fastapi<1.0.0,>=0.88
+Requires-Dist: uvicorn<1.0.0,>=0.20
