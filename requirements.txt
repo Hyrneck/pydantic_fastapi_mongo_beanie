@@ -1,4 +1,4 @@
-# requirements.txt
+fastapi_pydantic_mongo_beanie_anthony_shea==0.1.0
 fastapi>=0.88,<1.0.0
 uvicorn>=0.20,<1.0.0
 python-multipart==0.0.6
