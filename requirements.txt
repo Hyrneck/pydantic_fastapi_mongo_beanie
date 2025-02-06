@@ -1,5 +1,4 @@
+# requirements.txt
 fastapi_pydantic_mongo_beanie_anthony_shea==0.1.0
 fastapi==0.109.0
 uvicorn==0.27.0
-python-multipart==0.0.6
-mangum==0.15.0
